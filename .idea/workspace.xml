@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="594c4a6f-c87a-4101-ada7-be6792900e86" name="Default Changelist" comment="" />
+    <list default="true" id="594c4a6f-c87a-4101-ada7-be6792900e86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b8OcZyC5QHqNkhAXHg2iMIGryH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +40,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,7 +51,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Node.js.script.js (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/questionsite/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -45,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.script.js" />
@@ -75,11 +97,25 @@
       <workItem from="1589994259128" duration="76000" />
       <workItem from="1589994380573" duration="147000" />
       <workItem from="1590471484647" duration="134000" />
+      <workItem from="1590480602396" duration="385000" />
+      <workItem from="1590481614688" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="407" y="134" key="#js.js" timestamp="1588444768839">
@@ -90,22 +126,22 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="407" y="134" key="#script.js/0.23.1440.825@0.23.1440.825" timestamp="1589110452306" />
-    <state width="1379" height="248" key="GridCell.Tab.0.bottom" timestamp="1589409389569">
+    <state width="1419" height="213" key="GridCell.Tab.0.bottom" timestamp="1590480646434">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1379" height="248" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1589409389569" />
-    <state width="1379" height="248" key="GridCell.Tab.0.center" timestamp="1589409389568">
+    <state width="1419" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1590480646434" />
+    <state width="1419" height="213" key="GridCell.Tab.0.center" timestamp="1590480646434">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1379" height="248" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1589409389568" />
-    <state width="1379" height="248" key="GridCell.Tab.0.left" timestamp="1589409389568">
+    <state width="1419" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1590480646434" />
+    <state width="1419" height="213" key="GridCell.Tab.0.left" timestamp="1590480646433">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1379" height="248" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1589409389568" />
-    <state width="1379" height="248" key="GridCell.Tab.0.right" timestamp="1589409389569">
+    <state width="1419" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1590480646433" />
+    <state width="1419" height="213" key="GridCell.Tab.0.right" timestamp="1590480646434">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1379" height="248" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1589409389569" />
+    <state width="1419" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1590480646434" />
     <state width="1379" height="248" key="GridCell.Tab.1.bottom" timestamp="1589409389570">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
